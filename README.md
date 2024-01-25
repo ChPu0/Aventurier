@@ -4,30 +4,7 @@ Un héros s'aventurait dans un monde dangereux,
 Frayant son passage dans les bois obscurs.
 
 Il s'agit de modéliser les déplacements d'un personnage sur une carte.
-La carte est modélisée à l'aide de caractères dans un fichier texte au format UTF-8 (voir pièce jointe)
- 
-Exemple :
- 
-###    ######    ###
-###      ##      ###
-##     ##  ##     ##
-#      ##  ##      #
-##                ##
-#####          #####
-###### ##  ##  #####
- #     ######     # 
-     ########       
-    ############    
-    ############    
-     ########      #
- #     ######     ##
-###### ##  ## ######
-#####          #####
-##                ##
-#   ## #    # ##   #
-##   ##      ##   ##
-###    #    #    ###
-###    ######    ###
+La carte est modélisée à l'aide de caractères dans un fichier texte au format UTF-8 (voir fichiers .txt du projet)
  
  
 ###Légende
