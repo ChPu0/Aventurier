@@ -7,11 +7,11 @@ Il s'agit de modéliser les déplacements d'un personnage sur une carte.
 La carte est modélisée à l'aide de caractères dans un fichier texte au format UTF-8 (voir fichiers .txt du projet)
  
  
-###Légende
+### Légende
 '# bois impénétrables'
 [ ] (caractère espace) : case où le personnage peut se déplacer
  
-###Déplacement du personnage
+### Déplacement du personnage
 Les déplacements du personnage sont définis par un fichier avec les caractéristiques suivantes :
 •	encodage: UTF-8
 •	Première ligne :
@@ -24,16 +24,16 @@ Interaction avec les éléments de la carte
 Le personnage ne peut pas aller au-delà des bords de la carte.
 Le personnage ne peut pas aller sur les cases occupées par les bois impénétrables.
  
-###Test 
+### Test 
 Premier test
 Le fichier suivant est fourni en entrée :
 3,0
 SSSSEEEEEENN
  
-###Résultat attendu :
+### Résultat attendu :
 Le personnage doit se trouver en (9,2)
  
-###Deuxième test
+### Deuxième test
 Le fichier suivant est fourni en entrée :
 6,7
 OONOOOSSO
@@ -43,7 +43,7 @@ Le personnage doit se trouver en (1,9)
 
 
 
-### Pré-requis
+## Pré-requis
 
 - IDE Java (Eclipse, Netbeans, IntelliJ,...)
 - Springboot : 3.2.2
