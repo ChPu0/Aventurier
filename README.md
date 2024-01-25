@@ -9,7 +9,7 @@ La carte est modélisée à l'aide de caractères dans un fichier texte au forma
  
 ### Légende
 #Diese bois impénétrables
-[ ] (caractère espace) : case où le personnage peut se déplacer
+'[ ]' (caractère espace) : case où le personnage peut se déplacer
  
 ### Déplacement du personnage
 Les déplacements du personnage sont définis par un fichier avec les caractéristiques suivantes :
