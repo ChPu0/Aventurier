@@ -8,7 +8,7 @@ La carte est modélisée à l'aide de caractères dans un fichier texte au forma
  
  
 ### Légende
-'# bois impénétrables'
+#Diese bois impénétrables
 [ ] (caractère espace) : case où le personnage peut se déplacer
  
 ### Déplacement du personnage
@@ -38,7 +38,7 @@ Le fichier suivant est fourni en entrée :
 6,7
 OONOOOSSO
  
-###Résultat attendu :
+### Résultat attendu :
 Le personnage doit se trouver en (1,9)
 
 
